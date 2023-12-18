@@ -1,4 +1,4 @@
-# JHTTP
+# JHTTP2
 JHTTP is a simple HTTP server written in the Java 8.
 
 
