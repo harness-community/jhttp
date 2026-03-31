@@ -46,6 +46,7 @@ public interface HttpRequest {
     /**
      * Version of the HTTP protocol, usually {@code HTTP/1.1}
      * 
+     *
      * @return HTTP version.
      */
     String getHttpVersion();
