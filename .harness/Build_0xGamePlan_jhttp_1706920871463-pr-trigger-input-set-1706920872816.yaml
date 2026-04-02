@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_0xGamePlan_jhttp_1706920871463-pr-trigger-input-set
+  identifier: Build_0xGamePlan_jhttp_1706920871463prtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: default_project
+  pipeline:
+    identifier: Build_0xGamePlan_jhttp_1706920871463
+    properties:
+      ci:
+        codebase:
+          build:
+            type: PR
+            spec:
+              number: <+trigger.prNumber>
